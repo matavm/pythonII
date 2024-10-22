@@ -9,7 +9,6 @@ používame:
 - requests modul
 - xxx
 
-'''
 ```python
 from dataclasses import dataclass
 import requests
@@ -39,4 +38,3 @@ for line in lines[1:-1]:
 for user in users:
   print(users)
 ```
-'''
